@@ -2,6 +2,12 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
+- <b>Languages used: HTML, CSS and Javascript</b>
+  - [Configured a Survey Page](https://github.com/Ishanveer-Gill/Survey-Page)
+  - [Created a Tribute Page](https://github.com/Ishanveer-Gill/Tribute-Page)
+  - [Generated a Random Quote Machine](https://github.com/Ishanveer-Gill/Qgen)
+
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
