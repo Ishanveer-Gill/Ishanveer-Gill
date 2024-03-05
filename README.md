@@ -1,4 +1,9 @@
-<h1>Hi, I'm Ishan, an <a href="https://linkedin.com/in/ishan-singhg">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ishan, an <a href="https://linkedin.com/in/ishan-singhg">IT Professional and Passionate Cybersecurity Analyst</a>☺</h1>
+
+<h2>Cybersecurity Projects:</h2>
+
+- <b>Azure / Cloud Projects</b>
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/Ishanveer-Gill/Azure-SOC)
 
 <h2>👨‍💻 Software Projects:</h2>
 
