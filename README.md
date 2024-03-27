@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Ishanveer-Gill/Azure-SOC)
+  - [Incident Response Documentation on Findings](https://github.com/Ishanveer-Gill/Incident-Response-Documentation-on-Discoveries-Security-Analyst) 
 
 <h2>👨‍💻 Software Projects:</h2>
 
