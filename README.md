@@ -5,9 +5,10 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Ishanveer-Gill/Azure-SOC)
   - [Incident Response Documentation on Findings](https://github.com/Ishanveer-Gill/Incident-Response-Documentation-on-Discoveries-Security-Analyst)
- 
-- <b>Tor Threat Hunting Project</b>
-  -[Threat Hunting Scenario Tor](https://github.com/Ishanveer-Gill/Threat-Hunting-Scenario-Tor/tree/main)
+
+ - <b>Threat Hunting Project</b>
+  - [Tor Threat Hunting Scenario](https://github.com/Ishanveer-Gill/Threat-Hunting-Scenario-Tor/tree/main)
+
 
 <h2>👨‍💻 Software Projects:</h2>
 
