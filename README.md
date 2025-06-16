@@ -4,7 +4,10 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Ishanveer-Gill/Azure-SOC)
-  - [Incident Response Documentation on Findings](https://github.com/Ishanveer-Gill/Incident-Response-Documentation-on-Discoveries-Security-Analyst) 
+  - [Incident Response Documentation on Findings](https://github.com/Ishanveer-Gill/Incident-Response-Documentation-on-Discoveries-Security-Analyst)
+ 
+- <b>Tor Threat Hunting Project</b>
+  -[Threat Hunting Scenario Tor](https://github.com/Ishanveer-Gill/Threat-Hunting-Scenario-Tor/tree/main)
 
 <h2>👨‍💻 Software Projects:</h2>
 
@@ -12,7 +15,6 @@
   - [Configured a Survey Page](https://github.com/Ishanveer-Gill/Survey-Page)
   - [Created a Tribute Page](https://github.com/Ishanveer-Gill/Tribute-Page)
   - [Generated a Random Quote Machine](https://github.com/Ishanveer-Gill/Qgen)
-
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
