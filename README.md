@@ -7,7 +7,7 @@
   - [Incident Response Documentation on Findings](https://github.com/Ishanveer-Gill/Incident-Response-Documentation-on-Discoveries-Security-Analyst)
 
  - <b>Threat Hunting Project</b>
-  - [Tor Threat Hunting Scenario](https://github.com/Ishanveer-Gill/Threat-Hunting-Scenario-Tor/tree/main)
+    - [Tor Threat Hunting Scenario](https://github.com/Ishanveer-Gill/Threat-Hunting-Scenario-Tor/tree/main)
 
 
 <h2>👨‍💻 Software Projects:</h2>
